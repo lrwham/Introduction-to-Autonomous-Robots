@@ -19,3 +19,4 @@
 
 # ignore authors' working drafts
 book_*.tex
+.DS_Store
